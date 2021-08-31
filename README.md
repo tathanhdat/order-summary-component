@@ -22,9 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](/home/tathanhdat/Project/FrontEnd-Mentor/order-summary-component-main/Order summary card - desktop.png)
-
-![](/home/tathanhdat/Project/FrontEnd-Mentor/order-summary-component-main/Order summary card - mobile.png)
+![Desktop Preview](https://github.com/tathanhdat/order-summary-component/blob/main/Order%20summary%20card%20-%20desktop.png)
+![Mobile Preview](https://github.com/tathanhdat/order-summary-component/blob/main/Order%20summary%20card%20-%20mobile.png)
 
 ## My process
 
